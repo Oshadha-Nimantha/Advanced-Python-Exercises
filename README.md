@@ -6,11 +6,6 @@ This repository contains my solutions and progress for the Udemy course ["100+ E
 
 - `notebooks/`: This directory contains Jupyter notebooks, each with 20 exercises.
 
-## Notebooks
-
-1. **[Exercises 0-19](notebooks/Python_Excercies_1.ipynb)**:
-
-
 ## Course Description
 
 The course is designed to improve and test your Python programming skills with a series of challenging exercises. Each exercise is meant to deepen your understanding of Python's advanced features and best practices.
@@ -19,7 +14,7 @@ The course is designed to improve and test your Python programming skills with a
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/Advanced-Python-Exercises.git
+    git clone https://github.com/Oshadha-Nimantha/Advanced-Python-Exercises.git
     ```
 2. **Navigate to the notebooks directory**:
     ```bash
@@ -27,13 +22,13 @@ The course is designed to improve and test your Python programming skills with a
     ```
 3. **Open a Jupyter notebook**:
     ```bash
-    jupyter notebook Exercises_1_20.ipynb
+    jupyter notebook "Python Exercises x.ipynb"
     ```
 
 ## Getting Started
 
 To run the Jupyter notebooks, you will need to have the following installed on your machine:
 
-- Python 3.x
+- Python 3.10
 - Jupyter Notebook
 
