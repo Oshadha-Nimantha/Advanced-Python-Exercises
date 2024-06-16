@@ -8,7 +8,7 @@ This repository contains my solutions and progress for the Udemy course ["100+ E
 
 ## Notebooks
 
-1. **[Exercises 0-19](notebooks/Python Excercies 1.jpynb)**:
+1. **[Exercises 0-19](notebooks/Python Excercies 1.ipynb)**:
 
 
 ## Course Description
