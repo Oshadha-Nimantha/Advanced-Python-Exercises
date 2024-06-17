@@ -5,6 +5,7 @@ This repository contains my solutions and progress for the Udemy course ["100+ E
 ## Repository Structure
 
 - `notebooks/`: This directory contains Jupyter notebooks, each with 20 exercises.
+- `notebookx files/`: These directories contain given files and files that created by me
 
 ## Course Description
 
